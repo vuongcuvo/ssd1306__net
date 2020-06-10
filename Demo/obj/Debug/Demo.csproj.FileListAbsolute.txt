@@ -1,0 +1,10 @@
+C:\vuong\csharp\ftdi\Demo\Demo\bin\Debug\Demo.exe.config
+C:\vuong\csharp\ftdi\Demo\Demo\bin\Debug\Demo.exe
+C:\vuong\csharp\ftdi\Demo\Demo\bin\Debug\Demo.pdb
+C:\vuong\csharp\ftdi\Demo\Demo\bin\Debug\FTD2XX_NET.dll
+C:\vuong\csharp\ftdi\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\vuong\csharp\ftdi\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\vuong\csharp\ftdi\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\vuong\csharp\ftdi\Demo\Demo\obj\Debug\Demo.exe
+C:\vuong\csharp\ftdi\Demo\Demo\obj\Debug\Demo.pdb
+C:\vuong\csharp\ftdi\Demo\Demo\bin\Debug\FTD2XX_NET.xml
