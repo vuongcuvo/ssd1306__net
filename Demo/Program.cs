@@ -18,6 +18,7 @@ namespace Demo
             oled.ssd1306_clear_screen(0x00);
 
             oled.ssd1306_refresh_gram();
+            oled.ssd1306_refresh_gram();
 
             Timer timer1 = new Timer(1000);
             timer1.Elapsed += Timer1_Elapsed;
