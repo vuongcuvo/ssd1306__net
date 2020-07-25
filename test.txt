@@ -12,9 +12,10 @@
 masterfunc()
 {
 master_edit
+newbranch_edit
 }
 
 newfunc()
 {
-
+abcxyz
 }
