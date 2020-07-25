@@ -9,12 +9,12 @@
 9
 10
 
-func1()
+masterfunc()
 {
 
 }
 
-func2()
+newfunc()
 {
 
 }
