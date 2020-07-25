@@ -11,7 +11,7 @@
 
 masterfunc()
 {
-
+master_edit
 }
 
 newfunc()
